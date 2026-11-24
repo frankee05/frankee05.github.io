@@ -1,0 +1,70 @@
+---
+title: "Franklin Truong"
+subtitle: "Statistics & Data Science + Economics @ UCLA"
+about:
+  template: trestles
+  image: headshot.jpeg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/franklintruong/
+    - icon: github
+      text: GitHub
+      href: https://github.com/frankee05
+    - icon: envelope
+      text: Email
+      href: mailto:fntruong05@gmail.com
+    - icon: file-earmark-pdf
+      text: Resume
+      href: Franklin_Truong_Resume_2027.pdf
+---
+
+## About Me
+
+Hi, I'm Franklin! I'm a fourth-year at UCLA studying Statistics & Data Science and Economics. I'm most interested in real estate and finance, and I like using data to understand how properties and investments actually perform.
+
+When I'm not working or in class, you'll probably find me:
+
+[🎾 Tennis]{.tag} [🎣 Fishing]{.tag} [🏋️ Working Out]{.tag} [🍜 Eating]{.tag}
+
+## Education
+
+:::: edu-card
+::: edu-header
+[University of California, Los Angeles]{.edu-school} [Expected June 2027]{.edu-date}
+:::
+
+[B.S. Statistics and Data Science]{.degree} [B.A. Economics]{.degree}
+::::
+
+## Experience
+
+::: exp-card
+**American Capital Group** \| Finance Projects Intern \| Summer 2026
+
+- Built 6 Python automations that replaced manual billing, AP, and journal entry work
+- Built Excel models and reports for multifamily properties, including NOI tracking, Budget-to-Actuals, and a property management feasibility analysis
+:::
+
+::: exp-card
+**Volunteer Income Tax Assistance (VITA)** \| External Operations Coordinator, Tax Preparer & Quality Reviewer \| Oct 2025 – Present
+
+- Prepare and review federal and California tax returns for underserved community members
+- Lead client communication, outreach, and sponsorships for the 2026–27 board
+:::
+
+::: exp-card
+**International Food Market** \| Assistant Manager \| 2019 – Present
+
+- Help run my family's store, managing inventory and keeping financial records in Excel
+- Train new employees and handle day-to-day customer service
+:::
+
+## License
+
+::: {.edu-card}
+::: {.edu-header}
+[California Real Estate Salesperson License]{.edu-school}
+[ID 02244357]{.edu-date}
+:::
+:::
